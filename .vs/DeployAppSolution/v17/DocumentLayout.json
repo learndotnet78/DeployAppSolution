@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\DeployAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A486E76-F7AB-4BE2-91CE-DFE975388533}|DeployAPIProject\\DeployAPIProject.csproj|e:\\repos\\deployappsolution\\deployapiproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A486E76-F7AB-4BE2-91CE-DFE975388533}|DeployAPIProject\\DeployAPIProject.csproj|solutionrelative:deployapiproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31B270F-6D2A-4768-BB3B-92116970DC90}|DeployAPIProject.Test\\DeployAPIProject.Test.csproj|e:\\repos\\deployappsolution\\deployapiproject.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31B270F-6D2A-4768-BB3B-92116970DC90}|DeployAPIProject.Test\\DeployAPIProject.Test.csproj|solutionrelative:deployapiproject.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\repos\\DeployAppSolution\\DeployAPIProject.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DeployAPIProject.Test\\UnitTest1.cs",
+              "ToolTip": "E:\\repos\\DeployAppSolution\\DeployAPIProject.Test\\UnitTest1.cs",
+              "RelativeToolTip": "DeployAPIProject.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:50:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\repos\\DeployAppSolution\\DeployAPIProject\\Dockerfile",
+              "RelativeDocumentMoniker": "DeployAPIProject\\Dockerfile",
+              "ToolTip": "E:\\repos\\DeployAppSolution\\DeployAPIProject\\Dockerfile",
+              "RelativeToolTip": "DeployAPIProject\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-19T18:49:40.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
