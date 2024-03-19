@@ -52,6 +52,6 @@ jobs:
       uses: docker/build-push-action@v2
       with:
           context: .
-          file: .DeployAPIProject/Dockerfile
+          file: ./DeployAPIProject/Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/deployapiproject:v1, ${{ secrets.DOCKERHUB_USERNAME }}/deployapiproject:v${{ github.run_number }}
