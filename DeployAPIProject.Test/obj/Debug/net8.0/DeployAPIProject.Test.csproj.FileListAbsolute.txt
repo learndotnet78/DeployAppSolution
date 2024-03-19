@@ -97,3 +97,4 @@ E:\repos\DeployAppSolution\DeployAPIProject.Test\obj\Debug\net8.0\refint\DeployA
 E:\repos\DeployAppSolution\DeployAPIProject.Test\obj\Debug\net8.0\DeployAPIProject.Test.pdb
 E:\repos\DeployAppSolution\DeployAPIProject.Test\obj\Debug\net8.0\DeployAPIProject.Test.genruntimeconfig.cache
 E:\repos\DeployAppSolution\DeployAPIProject.Test\obj\Debug\net8.0\ref\DeployAPIProject.Test.dll
+E:\repos\DeployAppSolution\DeployAPIProject.Test\obj\Debug\net8.0\DeployAPIProject.Test.sourcelink.json

@@ -23,3 +23,4 @@ E:\repos\DeployAppSolution\DeployAPIProject\obj\Debug\net8.0\refint\DeployAPIPro
 E:\repos\DeployAppSolution\DeployAPIProject\obj\Debug\net8.0\DeployAPIProject.pdb
 E:\repos\DeployAppSolution\DeployAPIProject\obj\Debug\net8.0\DeployAPIProject.genruntimeconfig.cache
 E:\repos\DeployAppSolution\DeployAPIProject\obj\Debug\net8.0\ref\DeployAPIProject.dll
+E:\repos\DeployAppSolution\DeployAPIProject\obj\Debug\net8.0\DeployAPIProject.sourcelink.json
